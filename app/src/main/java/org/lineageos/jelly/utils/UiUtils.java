@@ -24,7 +24,7 @@ import android.graphics.Paint;
 import android.graphics.PorterDuff;
 import android.graphics.PorterDuffXfermode;
 import android.graphics.Rect;
-import android.support.v4.content.ContextCompat;
+import androidx.core.content.ContextCompat;
 import android.support.v4.graphics.ColorUtils;
 import android.support.v7.graphics.Palette;
 import android.util.TypedValue;
